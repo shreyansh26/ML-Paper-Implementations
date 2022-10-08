@@ -13,3 +13,6 @@
 [submodule "ConvNeXt-Adversarial-Examples"]
 	path = ConvNeXt-Adversarial-Examples
 	url = https://github.com/shreyansh26/ConvNeXt-Adversarial-Examples
+[submodule "ML-Optimizers-JAX"]
+	path = ML-Optimizers-JAX
+	url = https://github.com/shreyansh26/ML-Optimizers-JAX
