@@ -1,0 +1,15 @@
+[submodule "Sentence-VAE"]
+	path = Sentence-VAE
+	url = https://github.com/shreyansh26/Sentence-VAE
+[submodule "VAE-Implementation"]
+	path = VAE-Implementation
+	url = https://github.com/shreyansh26/VAE-Implementation
+[submodule "MinHash-Implemenation"]
+	path = MinHash-Implemenation
+	url = https://github.com/shreyansh26/MinHash-Implemenation
+[submodule "Extracting-Training-Data-from-Large-Langauge-Models"]
+	path = Extracting-Training-Data-from-Large-Langauge-Models
+	url = https://github.com/shreyansh26/Extracting-Training-Data-from-Large-Langauge-Models
+[submodule "ConvNeXt-Adversarial-Examples"]
+	path = ConvNeXt-Adversarial-Examples
+	url = https://github.com/shreyansh26/ConvNeXt-Adversarial-Examples
