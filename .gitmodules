@@ -16,3 +16,6 @@
 [submodule "ML-Optimizers-JAX"]
 	path = ML-Optimizers-JAX
 	url = https://github.com/shreyansh26/ML-Optimizers-JAX
+[submodule "An-Empirical-Model-of-Large-Batch-Training"]
+	path = An-Empirical-Model-of-Large-Batch-Training
+	url = git@github.com:shreyansh26/An-Empirical-Model-of-Large-Batch-Training.git
