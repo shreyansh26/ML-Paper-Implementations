@@ -22,3 +22,6 @@
 [submodule "Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability"]
 	path = Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability
 	url = https://github.com/shreyansh26/Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability
+[submodule "Lottery-Ticket-Hypothesis"]
+	path = Lottery-Ticket-Hypothesis
+	url = https://github.com/shreyansh26/Lottery-Ticket-Hypothesis
