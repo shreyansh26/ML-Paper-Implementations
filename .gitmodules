@@ -19,3 +19,6 @@
 [submodule "An-Empirical-Model-of-Large-Batch-Training"]
 	path = An-Empirical-Model-of-Large-Batch-Training
 	url = git@github.com:shreyansh26/An-Empirical-Model-of-Large-Batch-Training.git
+[submodule "Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability"]
+	path = Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability
+	url = https://github.com/shreyansh26/Gradient-Descent-on-Neural-Networks-Typically-Occurs-at-the-Edge-of-Stability
