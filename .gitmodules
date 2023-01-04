@@ -25,3 +25,6 @@
 [submodule "Lottery-Ticket-Hypothesis"]
 	path = Lottery-Ticket-Hypothesis
 	url = https://github.com/shreyansh26/Lottery-Ticket-Hypothesis
+[submodule "Experiments-with-the-Neural-Tangent-Kernel"]
+	path = Experiments-with-the-Neural-Tangent-Kernel
+	url = https://github.com/shreyansh26/Experiments-with-the-Neural-Tangent-Kernel
