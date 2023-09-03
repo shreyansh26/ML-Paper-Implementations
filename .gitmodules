@@ -28,3 +28,9 @@
 [submodule "Experiments-with-the-Neural-Tangent-Kernel"]
 	path = Experiments-with-the-Neural-Tangent-Kernel
 	url = https://github.com/shreyansh26/Experiments-with-the-Neural-Tangent-Kernel
+[submodule "Speculative-Sampling"]
+	path = Speculative-Sampling
+	url = git@github.com:shreyansh26/Speculative-Sampling.git
+[submodule "FlashAttention-PyTorch"]
+	path = FlashAttention-PyTorch
+	url = git@github.com:shreyansh26/FlashAttention-PyTorch.git
