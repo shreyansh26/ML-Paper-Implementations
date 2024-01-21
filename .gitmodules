@@ -34,3 +34,6 @@
 [submodule "FlashAttention-PyTorch"]
 	path = FlashAttention-PyTorch
 	url = git@github.com:shreyansh26/FlashAttention-PyTorch.git
+[submodule "Red-Teaming-Language-Models-with-Language-Models"]
+	path = Red-Teaming-Language-Models-with-Language-Models
+	url = git@github.com:shreyansh26/Red-Teaming-Language-Models-with-Language-Models.git
