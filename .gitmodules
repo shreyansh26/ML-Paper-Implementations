@@ -37,3 +37,6 @@
 [submodule "Red-Teaming-Language-Models-with-Language-Models"]
 	path = Red-Teaming-Language-Models-with-Language-Models
 	url = git@github.com:shreyansh26/Red-Teaming-Language-Models-with-Language-Models.git
+[submodule "Hydragen-Attention"]
+	path = Hydragen-Attention
+	url = git@github.com:shreyansh26/Hydragen-Attention.git
