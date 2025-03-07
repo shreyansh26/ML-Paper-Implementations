@@ -43,3 +43,6 @@
 [submodule "FlashAttention-Triton"]
 	path = FlashAttention-Triton
 	url = git@github.com:shreyansh26/FlashAttention-Triton.git
+[submodule "LLM-Sampling"]
+	path = LLM-Sampling
+	url = git@github.com:shreyansh26/LLM-Sampling.git
