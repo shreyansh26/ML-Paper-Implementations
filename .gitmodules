@@ -49,3 +49,6 @@
 [submodule "bpe"]
 	path = bpe
 	url = git@github.com:shreyansh26/bpe.git
+[submodule "kv-cache-compression"]
+	path = kv-cache-compression
+	url = git@github.com:shreyansh26/kv-cache-compression.git
