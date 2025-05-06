@@ -46,3 +46,6 @@
 [submodule "LLM-Sampling"]
 	path = LLM-Sampling
 	url = git@github.com:shreyansh26/LLM-Sampling.git
+[submodule "bpe"]
+	path = bpe
+	url = git@github.com:shreyansh26/bpe.git
