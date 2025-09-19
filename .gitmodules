@@ -52,3 +52,6 @@
 [submodule "kv-cache-compression"]
 	path = kv-cache-compression
 	url = git@github.com:shreyansh26/kv-cache-compression.git
+[submodule "dynamic-fine-tuning"]
+	path = dynamic-fine-tuning
+	url = git@github.com:shreyansh26/dynamic-fine-tuning.git
