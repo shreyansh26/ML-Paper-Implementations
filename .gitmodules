@@ -55,3 +55,6 @@
 [submodule "dynamic-fine-tuning"]
 	path = dynamic-fine-tuning
 	url = git@github.com:shreyansh26/dynamic-fine-tuning.git
+[submodule "multilora-llm-inference"]
+	path = multilora-llm-inference
+	url = git@github.com:shreyansh26/multilora-llm-inference.git
